@@ -1,28 +1,26 @@
-# Blog
-http://feeds.feedburner.com/playpc
-http://feeds.feedburner.com/ruanyifeng
-https://rsshub.app/galaxylab
-https://rsshub.app/iyouport/article
-https://rsshub.app/leemeng
-https://sspai.com/feed
+# music
+https://cadenceweapon.substack.com/feed
+https://lastdonutofthenight.substack.com/feed
+https://musicjournalism.substack.com/feed
+https://robertchristgau.substack.com/feed
 
-# Game
-https://gamejilu.com/rss/
-https://www.4gamers.com.tw/rss/latest-news
 
 # News
-https://rsshub.app/github/issue/headllines/hackernews-daily
-https://www.ithome.com.tw/rss
-https://openingsource.org/feed/
+https://savingjournalism.substack.com/feed
+https://astralcodexten.substack.com/feed
 
-# Software
-http://feeds.feedburner.com/freegroup
-https://feeds.appinn.com/appinns/
+# Culture
+https://vittles.substack.com/feed
+https://cherylstrayed.substack.com/feed
+https://iramadison.substack.com/feed
+https://aminatou.substack.com/feed
+https://fruity.substack.com/feed
+https://www.webworm.co/feed
+https://hunterharris.substack.com/feed
 
-# Twitter
-# https://rsshub.app/twitter/user/quiztime
+# Food
+https://www.aliciakennedy.news/feed
+https://www.bittmanproject.com/feed
 
-# Test for wrong url
-https://example.com
-https://a.c
-apple
+# Mental Aware
+https://haleynahman.substack.com/feed
