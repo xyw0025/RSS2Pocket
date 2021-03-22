@@ -19,8 +19,9 @@
 
  # Food
  https://www.aliciakennedy.news/feed
- https://www.bittmanproject.com/feed
 
  # Mental Aware
  https://haleynahman.substack.com/feed
 
+# Tech
+https://blog.techbridge.cc/atom.xml
